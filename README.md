@@ -1,1 +1,1 @@
-
+This course schedule planner is my final project for Brown University's CS15 course. Its purpose is to help students search for courses and plan their semester's course schedule. See the User's Guide pdf for more detail.
